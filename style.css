@@ -1,11 +1,29 @@
 @font-face{
   font-family: inter;
-  src: url(Inter-Regular.ttf)
+  src: url(Inter-Regular.ttf);
 }
+
 body{
-  background-color=#262626
-  margin=5px
+  background-color = #262626;
+  margin: 5px;
 }
+
+p{
+  color: #FFFFFF;
+  font-family; 'inter';
+}
+
+h1{
+  color: #FFFFFF;
+  font-family = 'inter';
+}
+
+h4{
+  color: #FFFFFF;
+  font-family = 'inter';
+}
+
 #link{
-  font-family='inter'
+  color: #FFFFFF;
+  font-family = 'inter';
 }
