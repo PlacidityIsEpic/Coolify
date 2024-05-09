@@ -1,5 +1,5 @@
 @font-face{
-  font-family: inter;
+  font-family: Inter;
   src: url(Inter-Regular.ttf);
 }
 
@@ -10,20 +10,20 @@ body{
 
 p{
   color: #FFFFFF;
-  font-family: 'inter';
+  font-family: 'Inter';
 }
 
 h1{
   color: #FFFFFF;
-  font-family: 'inter';
+  font-family: 'Inter';
 }
 
 h4{
   color: #FFFFFF;
-  font-family: 'inter';
+  font-family: 'Inter';
 }
 
 #link{
   color: #FFFFFF;
-  font-family: 'inter';
+  font-family: 'Inter';
 }
