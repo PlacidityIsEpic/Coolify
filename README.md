@@ -4,9 +4,9 @@
 
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
-@69digs - Idea and Origin and gave me permission to make this. (did small changes lol)
+@dates4u - Idea and Origin and gave me permission to make this. (did small changes lol)
 <hr>
 
 Welcome to Coolify, a really bad spotify copy
-made by Placidity and 69dig. (started this during school
+made by Placidity and dates4u. (started this during school
 LOL) Anyway thanks if you use coolify during Alpha!
