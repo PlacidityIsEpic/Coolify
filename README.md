@@ -1,6 +1,6 @@
 <h1>Coolify</h1>
 <hr>
-<a href='https://placidityisepic.github.io/Coolify/' target='blank'>Go to Coolify</a>
+<a href='https://placidityisepic.github.io/Coolify/' target='_blank'>Go to Coolify</a>
 
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
