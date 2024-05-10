@@ -4,7 +4,7 @@
 
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
-@69digs - Idea and Origin and gave me permission to make this.
+@69digs - Idea and Origin and gave me permission to make this. (did small changes lol)
 <hr>
 
 Welcome to Coolify, a really bad spotify copy
