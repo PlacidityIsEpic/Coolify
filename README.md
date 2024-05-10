@@ -1,5 +1,7 @@
 <h1>Coolify</h1>
 <hr>
+<a href='placidityisepic.github.io/Coolify/'>Go to Coolify</a>
+<hr>
 
 Welcome to Coolify, a really bad spotify copy
 made by Placidity and 69dig. Also made by a
