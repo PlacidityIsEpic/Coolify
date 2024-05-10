@@ -1,6 +1,7 @@
 <h1>Coolify</h1>
 <hr>
 <a href='https://placidityisepic.github.io/Coolify/' target='blank'>Go to Coolify</a>
+<p>Credits (comming soon)</p>
 <hr>
 
 Welcome to Coolify, a really bad spotify copy
