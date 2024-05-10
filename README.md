@@ -4,7 +4,6 @@
 
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
-@dates4u - Idea and Origin and gave me permission to make this. (did small changes lol)
 <hr>
 
 Welcome to Coolify, a really bad spotify copy
