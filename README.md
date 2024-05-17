@@ -1,4 +1,4 @@
-<h1><a href='index.html' target='_blank'>Coolify</a></h1>
+<h1><a href='https://placidityisepic.github.io/Coolify/index.html' target='_blank'>Coolify</a></h1>
 <hr>
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
