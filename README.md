@@ -1,7 +1,5 @@
-<h1>Coolify</h1>
+<a href='index.html' target='_blank'><h1>Coolify</h1></a>
 <hr>
-<a href='https://placidityisepic.github.io/Coolify/' target='_blank'>Go to Coolify</a>
-
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
 <hr>
