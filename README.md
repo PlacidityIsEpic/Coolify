@@ -1,4 +1,4 @@
-<a href='index.html' target='_blank'><h1>Coolify</h1></a>
+<h1><a href='index.html' target='_blank'>Coolify</a></h1>
 <hr>
 <h2>Credits:</h2>
 @PlacidityIsEpic - Programming
